@@ -14,6 +14,7 @@ class DatePrint {
         String s, s1, s2, s3;
 
         // I ask the user to enter the date in six-digit format (DDMMYY)
+        System.out.println("Date Validity");
         System.out.println("Enter the date in six digit format:");
         n = sc.nextInt();
 
